@@ -28,7 +28,7 @@ Przed rozpoczęciem instalacji upewnij się, że masz:
 1.  **Dostęp do interfejsu iDRAC:**
     Otwórz przeglądarkę i przejdź do adresu IP swojego iDRAC. Zaloguj się danymi uwierzytelniającymi.
 
-    ![Logowanie do iDRAC](images/01-idrac-login.png)
+    ![Logowanie do iDRAC](images/Zrzut ekranu (3).png)
 
 2.  **Uruchomienie Wirtualnej Konsoli:**
     Po zalogowaniu, znajdź i kliknij przycisk "Launch Virtual Console" (lub podobny) w panelu głównym iDRAC. Zazwyczaj uruchamia się ona jako osobne okno przeglądarki.
